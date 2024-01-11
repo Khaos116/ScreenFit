@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingDefaultResource">
-  <dimen name="launcher_bg_w">720px</dimen>
-  <dimen name="launcher_bg_h">1600px</dimen>
-  <string name="sss" tools:ignore="ExtraTranslation">240</string>
-</resources>
