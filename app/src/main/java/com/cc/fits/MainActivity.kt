@@ -8,6 +8,7 @@ class MainActivity : AppCompatActivity() {
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
     setContentView(R.layout.activity_main)
+    //ScreenFitUtils.printScreenFitInfo()
     findViewById<TextView>(R.id.tvInfo).text = getString(R.string.sss)
   }
 }
